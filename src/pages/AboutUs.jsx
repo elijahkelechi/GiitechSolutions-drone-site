@@ -1,5 +1,5 @@
 import React from "react";
-import aboutUsDroneBg from "../assets/LandingImage2.webp"; // Background image for the About Us section
+import aboutUsDroneBg from "../assets/landingImage2.webp"; // Background image for the About Us section
 import LandingPageContact from "../components/LandingPageContact";
 
 const AboutUs = () => {
@@ -10,7 +10,7 @@ const AboutUs = () => {
         <img
           src={aboutUsDroneBg}
           alt="About Us Background"
-          className="absolute inset-0 w-full h-full object-cover"
+          className="absolute inset-0 w-fußßll h-full object-cover"
         />
         <div className="absolute inset-0 bg-black opacity-60" />
 
