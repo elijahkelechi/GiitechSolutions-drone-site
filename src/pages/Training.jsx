@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { FaPhoneAlt } from "react-icons/fa"; // Import phone icon
 import bgImage from "../assets/getTrained.webp";
-// import LandingPageContact from "../components/landingPageContact";
+import LandingPageContact from "../components/LandingPageContact";
 
 const Training = () => {
   return (
@@ -103,7 +103,7 @@ const Training = () => {
           </div>
         </div>
       </div>
-      {/* <LandingPageContact /> */}
+      <LandingPageContact />
     </div>
   );
 };

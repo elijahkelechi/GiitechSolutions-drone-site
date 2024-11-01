@@ -1,6 +1,6 @@
 import React from "react";
-import aboutUsDroneBg from "../assets/landingImage2.webp"; // Background image for the About Us section
-import LandingPageContact from "../components/landingPageContact";
+import aboutUsDroneBg from "../assets/LandingImage2.webp"; // Background image for the About Us section
+import LandingPageContact from "../components/LandingPageContact";
 
 const AboutUs = () => {
   return (
