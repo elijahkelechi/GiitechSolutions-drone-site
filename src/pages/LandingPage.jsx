@@ -1,8 +1,8 @@
 import { useEffect, useRef, useState } from "react";
 import Hero from "../components/Hero";
-import LandingPageServices from "../components/landingPageServices";
-import LandingPageTestimonials from "../components/landingPageTestimonials";
-import LandingPageContact from "../components/landingPageContact";
+import LandingPageServices from "../components/LandingPageServices";
+import LandingPageTestimonials from "../components/LandingPageTestimonials";
+import LandingPageContact from "../components/LandingPageContact";
 import RotatingEarth from "../components/RotatingEarth";
 import MobileEarth from "../components/MobileEarth";
 import Typed from "typed.js";
